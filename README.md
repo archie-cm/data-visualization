@@ -1,4 +1,4 @@
-# data-visualization
+# Session 5 - Visualizing the transformed data & Batch Processing
 
 ![image](https://user-images.githubusercontent.com/108534539/225223298-b2dd58cc-a516-41c2-bfdd-eab849740e0e.png)
 
