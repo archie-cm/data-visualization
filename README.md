@@ -1,4 +1,4 @@
-# Session 5 - Visualizing the transformed data & Batch Processing
+# Session 5 - Visualizing the Transformed Data & Batch Processing
 
 ![image](https://user-images.githubusercontent.com/108534539/225223298-b2dd58cc-a516-41c2-bfdd-eab849740e0e.png)
 
@@ -16,6 +16,9 @@ From the data above, i created a dashboard talks about following Trends:
 + Payment and total amount earned 
 
 The goal is to track, analyze, visually represent your data in an accessible and allows business users to gain insight into their vast amounts of data
+
+### Review
+![image](https://user-images.githubusercontent.com/108534539/225262142-5d4260f6-f8bf-4c23-a325-83ef42dd4d95.png)
 
 https://lookerstudio.google.com/reporting/04f4502a-ab60-4408-9e53-f9ccc4f0175e
 
