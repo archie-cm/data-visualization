@@ -17,7 +17,7 @@ From the data above, i created a dashboard talks about following Trends:
 
 The goal is to track, analyze, visually represent your data in an accessible and allows business users to gain insight into their vast amounts of data
 
-https://lookerstudio.google.com/u/0/reporting/dc4ade3d-1e66-4818-ab1a-6408c8abcd00/page/gg69C?s=gQkqJGgqE9I
+https://lookerstudio.google.com/reporting/04f4502a-ab60-4408-9e53-f9ccc4f0175e
 
 
 # Spark + pyspark setup guide
