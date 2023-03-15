@@ -17,7 +17,7 @@ From the data above, i created a dashboard talks about following Trends:
 
 The goal is to track, analyze, visually represent your data in an accessible and allows business users to gain insight into their vast amounts of data
 
-[![Yellow Trip Dashboard · Metabase_pages-to-jpg-0001](https://user-images.githubusercontent.com/85284506/206668374-f99841fe-645e-4141-8f12-34a1f09f17b3.jpg)](https://lookerstudio.google.com/u/0/reporting/dc4ade3d-1e66-4818-ab1a-6408c8abcd00/page/gg69C?s=gQkqJGgqE9I)
+https://lookerstudio.google.com/u/0/reporting/dc4ade3d-1e66-4818-ab1a-6408c8abcd00/page/gg69C?s=gQkqJGgqE9I
 
 
 # Spark + pyspark setup guide
