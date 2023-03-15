@@ -1,6 +1,7 @@
 # data-visualization
 
-![image](https://user-images.githubusercontent.com/108534539/225222658-58b29d89-8e07-4c13-ba7e-191e62f9cdd1.png)
+![image](https://user-images.githubusercontent.com/108534539/225223298-b2dd58cc-a516-41c2-bfdd-eab849740e0e.png)
+
 Looker is a business intelligence software and big data analytics platform that helps you explore, analyze and share real-time business analytics easily.
 
 
