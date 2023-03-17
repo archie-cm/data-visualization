@@ -18,7 +18,8 @@ From the data above, i created a dashboard talks about following Trends:
 The goal is to track, analyze, visually represent your data in an accessible and allows business users to gain insight into their vast amounts of data
 
 ### Review
-![image](https://user-images.githubusercontent.com/108534539/225262142-5d4260f6-f8bf-4c23-a325-83ef42dd4d95.png)
+![image](https://user-images.githubusercontent.com/108534539/225783853-dc58acf8-ca8c-4416-aa37-08dec4a36026.png)
+
 
 https://lookerstudio.google.com/reporting/04f4502a-ab60-4408-9e53-f9ccc4f0175e
 
